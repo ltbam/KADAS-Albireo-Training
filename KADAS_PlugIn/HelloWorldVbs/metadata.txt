@@ -1,0 +1,28 @@
+[general]
+name=Hello World IKT Training
+qgisMinimumVersion=1.8
+qgisMaximumVersion=2.99
+description=An example plugin that says "Hello World"
+version=version 1.0
+author=Rémy Baud
+email=remy.baud@swisstopo.ch
+
+
+changelog=this is the first version
+
+
+tags=  vbs, kadas, hello world, kadas, introduction
+
+tracker=
+homepage=
+repository=
+
+category=web
+
+experimental=False
+
+about=Plugin has been made for the "IKT Fachführung" training. 
+
+
+; change icon...
+icon=icons/icon.png
